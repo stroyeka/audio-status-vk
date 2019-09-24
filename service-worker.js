@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/audio-status-vk/precache-manifest.8a5f9f816b2cdc4216e749b8d562dc60.js"
+  "/audio-status-vk/precache-manifest.fe67cd01d2e06e8cfc24e317301d6c77.js"
 );
 
 workbox.clientsClaim();

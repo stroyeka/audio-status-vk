@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/audio-status-vk/static/js/runtime~main.add8af69.js"
   },
   {
-    "revision": "cfe545e00b59811948e2",
-    "url": "/audio-status-vk/static/js/main.eeb25cc7.chunk.js"
+    "revision": "d8c019ff93c02ed5805d",
+    "url": "/audio-status-vk/static/js/main.40cd4f17.chunk.js"
   },
   {
     "revision": "b3354895ac4660ab0fed",
     "url": "/audio-status-vk/static/js/2.aa6dc732.chunk.js"
   },
   {
-    "revision": "cfe545e00b59811948e2",
+    "revision": "d8c019ff93c02ed5805d",
     "url": "/audio-status-vk/static/css/main.c1e3a0b1.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/audio-status-vk/static/css/2.a069024b.chunk.css"
   },
   {
-    "revision": "e554ecf36e633d71d941a88cade6a19e",
+    "revision": "48fc5627715411b260ebca8e7085c436",
     "url": "/audio-status-vk/index.html"
   }
 ];
